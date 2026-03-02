@@ -9,7 +9,7 @@ A simple, static music-themed frontend website developed using HTML and CSS.
 
 ## Live Demo
 
-https://rafi-s-225.github.io/Weather-app/
+ https://rafi-s-225.github.io/Musicfy-frontend-project/
 
 ## Author
 
